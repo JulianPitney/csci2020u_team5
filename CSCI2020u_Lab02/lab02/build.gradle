@@ -1,0 +1,6 @@
+apply plugin: 'application'
+
+
+dependencies {
+	compile files('./build/libs/commons-csv-1.4.jar')
+}
